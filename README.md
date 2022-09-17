@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 👤 About Me
 
-Hi there, my name is Maryam Saeidmehr. I am a Computer Engineering graduate from Isfahan University of Technology. My areas of interest are machine learning and deep learning. Check out my [CV](), and [Online résumé]() to learn more about me and my projects.
+Hi there, my name is Maryam Saeidmehr. I am a Computer Engineering graduated from Isfahan University of Technology. My areas of interest are machine learning and deep learning. Check out my [CV](), and [Online résumé]() to learn more about me and my projects.
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=BitterOcean)](https://github.com/BitterOcean/BitterOcean)
 <!--
