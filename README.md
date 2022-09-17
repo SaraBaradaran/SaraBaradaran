@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 👤 About Me
 
-Hi there, my name is Maryam Saeidmehr. I am a Computer Engineering graduated from Isfahan University of Technology. My areas of interest are machine learning and deep learning. Check out my [CV](), and [Online résumé]() to learn more about me and my projects.
+Hi there, my name is Maryam Saeidmehr. I am a Computer Engineering graduated from Isfahan University of Technology. My areas of interest are machine learning, deep learning and image processing. Check out my [CV](), and [Online résumé]() to learn more about me and my projects.
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=BitterOcean)](https://github.com/BitterOcean/BitterOcean)
 <!--
@@ -85,6 +85,10 @@ Hi there, my name is Maryam Saeidmehr. I am a Computer Engineering graduated fro
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/BitterOcean/BitterOcean/blob/main/icons/sklearn.svg" alt="Scikit Learn" width="40" height="40" /> </a>
     &nbsp; &nbsp;
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/BitterOcean/BitterOcean/blob/main/icons/tf.svg" alt="TensorFlow" width="40" height="40" /> </a>
+    &nbsp; &nbsp;
+  <a href="https://www.opencv.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/BitterOcean/BitterOcean/blob/main/icons/cv.svg" alt="OpenCV" width="40" height="40" /> </a>
+    &nbsp; &nbsp;
+  <a href="https://www.numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/BitterOcean/BitterOcean/blob/main/icons/np.svg" alt="Numpy" width="80" height="40" /> </a>
     &nbsp; &nbsp;
   </div>
 
