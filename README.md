@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub page  <img src="https://github.com/BitterOcean/BitterOcean/blob/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
 
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=BitterOcean&color=blueviolet&style=flat">
+</p>
 
 ## 👤 About Me
 
