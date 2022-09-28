@@ -90,6 +90,10 @@ Hi there, my name is Maryam Saeidmehr. I am a computer science graduate from Isf
     &nbsp; &nbsp;
   <a href="https://www.numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/BitterOcean/BitterOcean/blob/main/icons/np.svg" alt="Numpy" width="80" height="40" /> </a>
     &nbsp; &nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/BitterOcean/BitterOcean/blob/main/icons/pandas.svg" alt="Pandas" width="80" height="40" /> </a>
+    &nbsp; &nbsp;
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/BitterOcean/BitterOcean/blob/main/icons/keras.svg" alt="Keras" width="80" height="40" /> </a>
+    &nbsp; &nbsp;    
   </div>
 
 
