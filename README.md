@@ -75,6 +75,8 @@ Hi there, my name is Maryam Saeidmehr. I am a computer science graduate from Isf
 - Familiar with :
   <div align="left">
     <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://github.com/BitterOcean/BitterOcean/blob/main/icons/r.svg" alt="r" width="40" height="40" /> </a>
+    &nbsp; &nbsp;
+    <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://github.com/BitterOcean/BitterOcean/blob/main/icons/matlab.svg" alt="r" width="40" height="40" /> </a>
   </div>
 
 
