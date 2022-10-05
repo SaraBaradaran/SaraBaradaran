@@ -108,6 +108,10 @@ Hi there, my name is Maryam Saeidmehr. I am a computer science graduate from Isf
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=IUT)](https://github.com/BitterOcean/IUT)
 
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=Covid19-Detector)](https://github.com/BitterOcean/Covid19-Detector)
+
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=Covid19-Detector-Backend)](https://github.com/BitterOcean/Covid19-Detector-Backend)
+
 <!--
 ## 🐍 Contribution Graph
 
