@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-<div align="center">
-  <img src="https://github.com/BitterOcean/BitterOcean/blob/main/gifs/waving_hand.gif" alt="Maryam Saeidmehr" width="433" height="74" />
-</div>
--->
-
 # Welcome to my GitHub page  <img src="https://github.com/BitterOcean/BitterOcean/blob/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
 
 <p align="left">
@@ -30,6 +24,7 @@ Here are some ideas to get you started:
 Hi there, my name is Maryam Saeidmehr. I am a computer science graduate from Isfahan University of Technology. My areas of interest are machine learning, deep learning and image processing. Check out my [CV](https://github.com/BitterOcean/BitterOcean/raw/main/maryam-saeidmehr-cv.pdf), and <a href="https://maryamsaeedmehr.github.io" target="_blank" rel="noreferrer">Online résumé</a> to learn more about me and my projects.
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=BitterOcean)](https://github.com/BitterOcean/BitterOcean)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=MaryamSaeedmehr.github.io)](https://github.com/BitterOcean/MaryamSaeedmehr.github.io)
 
 
 ## 📇 Social & Contact
@@ -93,7 +88,7 @@ Hi there, my name is Maryam Saeidmehr. I am a computer science graduate from Isf
 ## 📚 Repositories
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=IUT)](https://github.com/BitterOcean/IUT)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=MaryamSaeedmehr.github.io)](https://github.com/BitterOcean/MaryamSaeedmehr.github.io)
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=Covid19-Detector)](https://github.com/BitterOcean/Covid19-Detector)
-
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=Covid19-Detector-Backend)](https://github.com/BitterOcean/Covid19-Detector-Backend)
