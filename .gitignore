@@ -1,6 +1,8 @@
+
 *.tex
 *.out
 *.log
 *.aux
 *.dvi
 *.synctex.gz
+*_transcript.pdf
