@@ -91,4 +91,4 @@ Hi there, my name is Maryam Saeidmehr. I am a computer engineer graduated from I
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=MaryamSaeedmehr.github.io)](https://github.com/BitterOcean/MaryamSaeedmehr.github.io)
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=Covid19-Detector)](https://github.com/BitterOcean/Covid19-Detector)
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=Covid19-Detector-Backend)](https://github.com/BitterOcean/ComputerScienceSchools)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=ComputerScienceSchools)](https://github.com/BitterOcean/ComputerScienceSchools)
