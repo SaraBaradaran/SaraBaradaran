@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=BitterOcean&color=blueviolet&style=for-the-badge">
 </p>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BitterOcean&show_icons=true)](https://github.com/BitterOcean/BitterOcean)
+
 ## 👤 About Me
 
 Hi there, my name is Maryam Saeidmehr. I am a computer engineer graduated from Isfahan University of Technology. My areas of interest are <b>machine learning</b>, <b>deep learning</b>, <b>computer vision</b> and <b>medical image analysis</b>. Check out my [CV](https://github.com/BitterOcean/BitterOcean/raw/main/maryam-saeidmehr-cv.pdf), and <a href="https://maryamsaeedmehr.github.io" target="_blank" rel="noreferrer">Online résumé</a> to learn more about me and my projects.
