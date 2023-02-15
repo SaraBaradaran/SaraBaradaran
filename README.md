@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 # Welcome to my GitHub page  <img src="https://github.com/BitterOcean/BitterOcean/blob/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=BitterOcean&color=blueviolet&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=BitterOcean&color=blueviolet&style=for-the-badge">
 </p>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BitterOcean&show_icons=true)](https://github.com/BitterOcean/BitterOcean)
 
 ## 👤 About Me
 
@@ -91,4 +93,4 @@ Hi there, my name is Maryam Saeidmehr. I am a computer engineer graduated from I
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=MaryamSaeedmehr.github.io)](https://github.com/BitterOcean/MaryamSaeedmehr.github.io)
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=Covid19-Detector)](https://github.com/BitterOcean/Covid19-Detector)
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=Covid19-Detector-Backend)](https://github.com/BitterOcean/Covid19-Detector-Backend)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=BitterOcean&repo=ComputerScienceSchools)](https://github.com/BitterOcean/ComputerScienceSchools)
